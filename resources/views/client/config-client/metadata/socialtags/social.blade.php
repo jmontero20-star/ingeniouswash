@@ -1,0 +1,11 @@
+<meta name="twitter:card" content="app">
+<meta name="twitter:title" content="IngeniousWash">
+<meta name="twitter:site" content="#">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="#">
+<meta name="twitter:app:name:iphone" content="IngeniousWash">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:name:ipad" content="IngeniousWash">
+<meta name="twitter:app:id:ipad" content="">
+<meta name="twitter:app:name:googleplay" content="IngeniousWash">
+<meta name="twitter:app:id:googleplay" content="">

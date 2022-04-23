@@ -1,0 +1,9 @@
+@extends('client.layouts.core')
+@section('name-pagine')
+    Nosotros, 
+@endsection
+@section('content')
+@include('client.about.banner')
+@include('client.about.history')
+@include('client.about.values')
+@endsection
